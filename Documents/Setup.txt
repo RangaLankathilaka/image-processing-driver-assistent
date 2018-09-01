@@ -1,0 +1,21 @@
+Installing OpenCV from prebuilt binaries
+
+    Below Python packages are to be downloaded and installed to their default locations.
+        Python-2.7.x. 64 bit
+        Numpy.
+        
+    Install all packages into their default locations. Python will be installed to C:/Python27/.
+    After installation, open Python IDLE. Enter import numpy and make sure Numpy is working fine.
+    Download latest OpenCV release from sourceforge site and double-click to extract it.
+    Goto opencv/build/python/2.7 folder.
+    Copy cv2.pyd to C:/Python27/lib/site-packages.
+
+Intalling pip
+	1.Run cmd
+	2.cd C:/
+	3.cd python27
+	4.cd scripts
+	5.pip install pil   //face recognition
+	6.pip install pyttsx //play sound
+	7.pip install PyQt4   //interface
+	8.pip install speech_recognition  //speech recognition

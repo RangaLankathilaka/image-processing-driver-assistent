@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/Capture4.png</file>
+    <file>icon/Capture1.png</file>
+    <file>icon/Capture.PNG</file>
+    <file>icon/forward.png</file>
+    <file>icon/back.jpg</file>
+    <file>icon/back.png</file>
+    <file>icon/close.png</file>
+    <file>icon/home.png</file>
+    <file>icon/option.png</file>
+    <file>icon/refresh.png</file>
+    <file>icon/search.png</file>
+    <file>icon/star.png</file>
+  </qresource>
+</RCC>
