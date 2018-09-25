@@ -1,2 +1,5 @@
 # imageprocessing-driver-assistent
-# image-processing-driver-assistent
+
+Lack of concentration of the driver is one of the main reason of traffic accidents. This is a complex problem that involves due to phone calls, tiredness, drowsiness, etc. Therefore driver in alertness is a very important. In recent years, driver drowsiness has been one of the major causes of inattention. Many surveys indicate the reliable driver inattention detection system which could alert the driver before a mishap happens. Researchers have attempted to determine driver inattention using behavioral of driver face. Image processing techniques to monitor the state of the driver is essential to identify drowsiness and tiredness. Driver state monitoring systems generally work based on driving patterns, driver’s video or physiological signals. Driver’s video or driving patterns are convenient to acquire, but to assess driver state accurately is difficult because these methods assess the driver state indirectly. Drowsy driver alert system can form the basis of the system to reduce the accidents. The purpose of such a system is to detect driver fatigue by placing the camera inside the car. This work describes a system called “Driver Assistant” which has been developed to keep the driver vigilant always.
+
+Individual Full-Stack developer Python OpenCV QtDesigner XML YML
